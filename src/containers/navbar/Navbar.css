@@ -1,0 +1,19 @@
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.2rem;
+    background: var(--primary-color);
+    position: sticky;
+    top: 0;
+    left: 0;
+    
+  }
+  
+  
+ .navbar_info{
+  height: 15vh;
+ }
+  
+  
